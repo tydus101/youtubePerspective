@@ -1,7 +1,7 @@
-#Youtube Perspective
+# Youtube Perspective
 This project is an API interface for analyzing the comments of a Youtube video based on it's toxicity as 
 perceived by the Google Perspective API. 
-##Deployment
+## Deployment
 Make sure you have `python3`, `python3-virtualenv` and `python3-pip installed.` Run the following:
 
 ```bash
